@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 乌鸢自乐
+title: 径竹扶疏
 subtitle:
 description:
 keywords:
-author: Manxia Wang
+author: Qixia Wang
 language:
 timezone: Japan
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://manxia.wang
+url: https://qixia.wang
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
