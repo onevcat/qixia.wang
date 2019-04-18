@@ -79,6 +79,6 @@ theme: edinburgh
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:onevcat/manxia.wang.git
+  repo: git@github.com:onevcat/qixia.wang.git
   branch: gh-pages
   
